@@ -13,5 +13,6 @@ Examples and Experiments using node with dynamodb
     java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
     ````
 
-
+## Contents List
+* Movies : From the AWS example documentation. This outlines how to CRUD it up with dynamodb.
 
