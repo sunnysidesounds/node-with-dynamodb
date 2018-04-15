@@ -7,7 +7,9 @@ Examples and Experiments using node with dynamodb
 
 
 ## Run
-* Go to the dynamodb local copy root directory and run this command
-    `java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb`
+* Go to the dynamodb local copy root directory and run this command :
+    ```
+    java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
+    ````
 
 
